@@ -3,7 +3,7 @@ This page includes data analyzed in the paper "Geographical distribution of Ente
 
 
 
-The aggregated data files are downloadable in this page,  They were tabulated from the comprehensive national surveillance data of all routine bacteriological test results from more than 1400 hospitals with national data of antimicrobial usage for each prefecture in Japan in 2015 and 2016.  
+The aggregated data files are downloadable in this page,  They were tabulated from the comprehensive national surveillance data of all routine bacteriological test results from more than 1400 hospitals for each prefecture in Japan in 2015 and 2016.  
 
 "data2_combined_per_prefecture.xlsx" further combines another national surveillance data of antimicrobial use for each prefecture.
 
